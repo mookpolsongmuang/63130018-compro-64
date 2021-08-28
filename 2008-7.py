@@ -1,0 +1,7 @@
+print("cube surface area calculator")
+print("please declare length of one side of the cube(l)")
+l = input("length")
+l = int(l)
+x = 6*(l*l)
+print("surface area of the cube is equal to")
+print(x)

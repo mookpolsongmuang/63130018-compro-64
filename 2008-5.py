@@ -1,0 +1,7 @@
+print("(name) is (age) years old, who needs love and money.")
+print("please define name and age")
+a = input("age")
+a = int(a)
+n = input ("name")
+n = input(n)
+print( n,"is",a,"years old, who needs love and money.")
